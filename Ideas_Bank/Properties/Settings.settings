@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ideas_Bank.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Default_Connection_String" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">|DataDirectory|\TDC.mdb;Persist Security Info=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
